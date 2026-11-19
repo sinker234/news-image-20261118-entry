@@ -9,8 +9,7 @@ Draws the world news of Wednesday 18 November 2026 into one broadsheet poster im
 ## Run it
 
 ```sh
-python3 build_image.py
-MAKEFUN_OUTPUT_DIR=out python3 main.py
+python3 main.py
 ```
 
 ---
